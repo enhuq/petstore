@@ -1,0 +1,8 @@
+api/test/DDTests.class
+api/utilities/DataProviders.class
+api/utilities/XLUtility.class
+api/test/UserTests.class
+api/payload/User.class
+api/endpoints/UserEndpointMethods.class
+api/AppTest.class
+api/utilities/ExtentReportManager.class
